@@ -2,3 +2,4 @@ test
 *.h5
 *.json
 .ipynb_checkpoints
+.idea
